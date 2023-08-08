@@ -1,0 +1,240 @@
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (9,41,100,1),
+  (5,21,100,1),
+  (6,5,100,0),
+  (7,87,100,0),
+  (8,32,100,0),
+  (6,18,100,1),
+  (8,31,100,1),
+  (3,86,100,1),
+  (3,16,100,0),
+  (8,66,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (8,33,100,1),
+  (9,34,100,1),
+  (3,25,100,1),
+  (6,84,100,1),
+  (2,90,100,0),
+  (8,23,100,1),
+  (3,75,100,1),
+  (10,22,100,0),
+  (1,11,100,0),
+  (9,35,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (7,95,100,1),
+  (8,12,100,0),
+  (3,57,100,1),
+  (8,88,100,1),
+  (1,6,100,1),
+  (5,21,100,1),
+  (10,32,100,0),
+  (5,39,100,1),
+  (3,19,100,1),
+  (9,93,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (2,43,100,0),
+  (10,93,100,1),
+  (8,93,100,1),
+  (9,11,100,1),
+  (9,66,100,0),
+  (6,24,100,0),
+  (4,70,100,0),
+  (9,13,100,1),
+  (3,3,100,0),
+  (8,32,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (9,41,100,1),
+  (5,89,100,1),
+  (7,53,100,1),
+  (6,30,100,0),
+  (5,71,100,0),
+  (9,85,100,0),
+  (8,60,100,0),
+  (3,67,100,1),
+  (4,76,100,0),
+  (9,91,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (9,75,100,1),
+  (5,44,100,0),
+  (4,33,100,1),
+  (4,72,100,0),
+  (3,51,100,1),
+  (9,30,100,1),
+  (5,25,100,0),
+  (4,7,100,1),
+  (10,81,100,0),
+  (6,41,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (9,42,100,1),
+  (9,61,100,0),
+  (7,32,100,1),
+  (4,37,100,1),
+  (4,69,100,1),
+  (5,84,100,1),
+  (1,75,100,0),
+  (8,19,100,1),
+  (2,80,100,0),
+  (2,70,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (5,11,100,1),
+  (3,37,100,1),
+  (9,22,100,0),
+  (5,64,100,0),
+  (4,7,100,1),
+  (5,45,100,0),
+  (5,68,100,0),
+  (8,48,100,0),
+  (7,77,100,1),
+  (4,1,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (6,30,100,1),
+  (9,2,100,0),
+  (1,24,100,1),
+  (3,38,100,1),
+  (9,49,100,1),
+  (7,81,100,1),
+  (6,17,100,0),
+  (10,67,100,0),
+  (3,11,100,1),
+  (3,42,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (5,43,100,0),
+  (9,95,100,0),
+  (8,80,100,0),
+  (9,19,100,1),
+  (4,90,100,1),
+  (6,62,100,1),
+  (4,79,100,1),
+  (2,74,100,0),
+  (10,80,100,0),
+  (9,30,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (9,58,100,1),
+  (3,32,100,1),
+  (8,1,100,0),
+  (1,62,100,0),
+  (6,81,100,1),
+  (8,55,100,1),
+  (2,5,100,0),
+  (4,9,100,1),
+  (3,46,100,1),
+  (8,41,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (8,7,100,1),
+  (6,8,100,1),
+  (5,40,100,1),
+  (1,12,100,1),
+  (4,35,100,1),
+  (8,33,100,1),
+  (8,98,100,1),
+  (5,87,100,0),
+  (10,10,100,1),
+  (6,3,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (7,86,100,0),
+  (8,44,100,1),
+  (8,96,100,1),
+  (3,7,100,0),
+  (2,27,100,1),
+  (9,73,100,0),
+  (9,91,100,0),
+  (5,9,100,1),
+  (6,46,100,0),
+  (3,31,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (4,28,100,1),
+  (8,33,100,0),
+  (3,83,100,1),
+  (1,16,100,0),
+  (6,81,100,1),
+  (2,60,100,0),
+  (8,41,100,0),
+  (5,57,100,1),
+  (7,87,100,0),
+  (5,58,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (3,98,100,1),
+  (8,80,100,1),
+  (5,70,100,0),
+  (4,52,100,0),
+  (5,89,100,1),
+  (7,19,100,0),
+  (6,65,100,0),
+  (7,23,100,0),
+  (6,65,100,1),
+  (4,30,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (4,41,100,1),
+  (7,9,100,1),
+  (5,68,100,1),
+  (8,57,100,1),
+  (7,72,100,0),
+  (2,86,100,1),
+  (6,17,100,0),
+  (3,60,100,0),
+  (9,42,100,0),
+  (8,65,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (9,60,100,1),
+  (6,54,100,0),
+  (5,28,100,1),
+  (2,3,100,0),
+  (6,65,100,1),
+  (9,63,100,0),
+  (2,8,100,0),
+  (9,97,100,1),
+  (4,16,100,0),
+  (7,95,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (10,39,100,0),
+  (3,27,100,0),
+  (6,14,100,0),
+  (7,94,100,1),
+  (7,15,100,1),
+  (8,32,100,1),
+  (5,57,100,0),
+  (5,10,100,0),
+  (4,40,100,1),
+  (8,10,100,0);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (5,97,100,0),
+  (3,11,100,1),
+  (4,91,100,1),
+  (3,36,100,1),
+  (9,51,100,1),
+  (5,76,100,1),
+  (4,48,100,1),
+  (9,8,100,0),
+  (7,7,100,0),
+  (9,18,100,1);
+INSERT INTO `demo_data_table` (`sensorId`,`currentSenseValue`,`upperSenseValue`,`Status`)
+VALUES
+  (5,14,100,0),
+  (5,14,100,1),
+  (8,83,100,0),
+  (10,37,100,0),
+  (10,15,100,0),
+  (10,63,100,1),
+  (3,80,100,1),
+  (4,29,100,1),
+  (2,8,100,1),
+  (1,88,100,0);
